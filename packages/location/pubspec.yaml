@@ -27,7 +27,9 @@ flutter:
 dependencies:
   flutter:
     sdk: flutter
-  location_android: ^5.0.0-dev.4
+  #location_android: ^5.0.0-dev.4
+  location_android:
+    path: ../location_android
   location_ios: ^5.0.0-dev.4
   # location_linux:
   #   path: ../location_linux
